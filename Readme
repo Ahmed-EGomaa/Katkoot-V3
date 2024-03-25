@@ -2,7 +2,7 @@
 # **Katkoot V3**
 DIY 3D printing based Shell-less system for birds embryo
 <p align="center"> 
-<img src= "Incubator.png"> 
+<img src= "incubator.png"> 
 </p>
 
 
