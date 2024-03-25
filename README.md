@@ -13,4 +13,4 @@ KatKoot V3 represents a groundbreaking advancement in avian embryo monitoring te
 
 # Link to 3D model: https://skfb.ly/oSCyQ
 # Link to Video:
-# Link to Preprint article:
+# Link to Preprint article: https://doi.org/10.6084/m9.figshare.25471090.v1
