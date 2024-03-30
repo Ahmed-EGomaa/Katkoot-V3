@@ -1,7 +1,7 @@
 # **<p align="center"> Katkoot V3.</p>**
 ## <p align="center"> DIY 3D printing based Shell-less system for birds embryo. </p>
 ## <p align="center"> RDI Prototyping Lab, Faculty of Biotechnology, MSA university. </p>
-<p align="center"> Authors: Ziyad Adbelal, Doha Ibrahim, Adam Maged, Mostafa Hesham, and  Ahmed Gomaa. </p>
+<p align="center"> Authors: Mai Torkey, Mariam Attia, Mostafa Hesham, and  Ahmed Gomaa. </p>
  
 <p align="center"> 
 <img src= "incubator.png"> 
